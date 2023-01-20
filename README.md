@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... creating a larger Linux community within my community.
 - 🌱 I’m currently learning ... BASH scripting.
 - 💞️ I’m looking to collaborate on ... deploying custom Xubuntu desktops through PXE.
-- 📫 How to reach me ... Twitter: @chaslinux
+- 📫 How to reach me ... Mastodon: @chaslinux@techhub.social
 
 <!---
 chaslinux/chaslinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
