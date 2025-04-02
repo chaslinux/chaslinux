@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chaslinux
 - 👀 I’m interested in ... creating a larger Linux community within my community.
 - 🌱 I’m currently learning ... BASH scripting.
-- 💞️ I’m looking to collaborate on ... deploying custom Xubuntu desktops through PXE.
+- 💞️ I’m looking to collaborate on ... deploying custom Linux Mint, Xubuntu and other Linux distributions via PXE network boot.
 - 📫 How to reach me ... Mastodon: @chaslinux@techhub.social
 
 <!---
